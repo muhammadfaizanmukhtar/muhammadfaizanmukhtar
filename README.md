@@ -32,10 +32,6 @@
         <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="40" height="40"/>
     </a>
     <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" height="40"/>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsqmP7onAB8AOIwoqLDZWJqEPqZ4tuw_yR2A&usqp=CAU" width="40" height="40"/>
     </a>
-    <a href="https://clickhouse.tech/" target="_blank" rel="noreferrer">
-        <img src="https://clickhouse.tech/static/favicon.png" width="40" height="40"/>
-    </a>
-
 </p>
