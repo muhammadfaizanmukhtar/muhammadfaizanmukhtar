@@ -19,16 +19,14 @@
 <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a><a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 
 <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zabbix.com%2Fintegrations%2Fhadoop&psig=AOvVaw1wsGdwxzNXly-vK5g2hQTm&ust=1717312193580000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCKDyts7suYYDFQAAAAAdAAAAABAE" width="40" height="40"/>
+        <img src="https://hadoop.apache.org/hadoop-logo.jpg" width="40" height="40"/>
     </a>
     <a href="https://www.cloudera.com/" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/cloudera/cloudera-icon.svg" width="40" height="40"/>
     </a>
     <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Apache_Spark_logo.svg" alt="Apache Spark" width="40" height="40"/>
+        <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" width="40" height="40"/>
     </a>
-    <a href="https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/YARN.html" target="_blank" rel="noreferrer">
-        <img src="https://hadoop.apache.org/docs/stable/hadoop-yarn/hadoop-yarn-site/yarn-logo.png" alt="YARN" width="40" height="40"/>
-    </a>
+
 
 </p>
