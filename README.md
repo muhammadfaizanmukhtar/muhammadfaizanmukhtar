@@ -28,5 +28,14 @@
         <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="Apache Spark" width="40" height="40"/>
     </a>
 
+  <a href="https://min.io/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/minioio/minioio-icon.svg" width="40" height="40"/>
+    </a>
+    <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
+        <img src="https://www.vectorlogo.zone/logos/apache_airflow/apache_airflow-icon.svg" width="40" height="40"/>
+    </a>
+    <a href="https://clickhouse.tech/" target="_blank" rel="noreferrer">
+        <img src="https://clickhouse.tech/static/favicon.png" width="40" height="40"/>
+    </a>
 
 </p>
