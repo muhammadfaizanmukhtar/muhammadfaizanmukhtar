@@ -1,3 +1,5 @@
+<h1 align="center">Hi 👋, I'm Muhammad Faizan</h1>
+<h3 align="center">DevOps Solutions Architect, building bridges between development and operations for seamless integration</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=muhammadfaizanmukhtar)](https://github.com/ryo-ma/github-profile-trophy)
 
