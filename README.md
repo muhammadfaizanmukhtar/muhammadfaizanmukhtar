@@ -8,9 +8,7 @@
 - 💞️ In terms of operating systems, my expertise lies in Red Hat Enterprise Linux 7 & 9, Rocky Linux 9.x, and Oracle Linux 9.x."
 - 📫 How to reach me m.faizan20172017@gmail.com
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-faizan-a89b81b3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mjamilmoughal" height="30" width="40" /></a>
