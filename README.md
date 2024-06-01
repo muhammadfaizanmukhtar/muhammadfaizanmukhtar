@@ -4,4 +4,5 @@
 - 💞️ In terms of operating systems, my expertise lies in Red Hat Enterprise Linux 7 & 9, Rocky Linux 9.x, and Oracle Linux 9.x."
 - 📫 How to reach me m.faizan20172017@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MuhammadFaizan&show_icons=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=muhammadfaizanmukhtar)](https://github.com/ryo-ma/github-profile-trophy)
+
